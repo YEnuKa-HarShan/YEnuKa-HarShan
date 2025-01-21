@@ -14,7 +14,7 @@
 - ⚡ Fun fact **Call me as Harshan**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">0719282627 (WhatsApp)
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
