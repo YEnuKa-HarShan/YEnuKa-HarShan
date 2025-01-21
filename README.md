@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [www.github.lk]([www.github.lk](https://github.com/YEnuKa-HarShan))
+- 👨‍💻 All of my projects are available at ([www.github.com](https://github.com/YEnuKa-HarShan)
 
 - 💬 Ask me about **React JS**
 
