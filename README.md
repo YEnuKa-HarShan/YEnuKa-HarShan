@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Call me as Harshan**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <b>+94721546026</b></h3>
 <p align="left">
 </p>
 
