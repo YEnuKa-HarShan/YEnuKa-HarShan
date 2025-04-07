@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yenuka-harshan&label=Profile%20views&color=0e75b6&style=flat" alt="yenuka-harshan" /> </p>
 
-- 🔭 I’m currently working on **Express Coffee**
+- 🔭 I’m currently working on **MovieHub App Development**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Springboots**
 
 - 👨‍💻 All of my projects are available at ([www.github.com](https://github.com/YEnuKa-HarShan))
 
-- 💬 Ask me about **React JS**
+- 💬 Ask me about **Any Projects, Technologies.**
 
 - ⚡ Fun fact **Call me as Harshan**
 
