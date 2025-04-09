@@ -7,12 +7,11 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 👨‍💻 All of my projects are available at [https://yenuka-harshan.github.io/Personal-Portfolio/](https://yenuka-harshan.github.io/Personal-Portfolio/)
+- 👨‍💻 All of my projects are available at <a href="https://yenuka-harshan.github.io/Personal-Portfolio">Personal Portfolio</a>
 
 - 💬 Ask me about **Any Projects,Technologies**
 
-- 📄 Know about my experiences CV Resume
-(https://drive.google.com/file/d/1oF3yKmickEhITovvXbOaAz_16hZSW2sr/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1oF3yKmickEhITovvXbOaAz_16hZSW2sr/view?usp=sharing">CV Resume</a>
 
 - ⚡ Fun fact **Call me as Harshan**
 
