@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **Any Projects,Technologies**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oF3yKmickEhITovvXbOaAz_16hZSW2sr/view?usp=sharing](https://drive.google.com/file/d/1oF3yKmickEhITovvXbOaAz_16hZSW2sr/view?usp=sharing)
+- 📄 Know about my experiences CV Resume
+(https://drive.google.com/file/d/1oF3yKmickEhITovvXbOaAz_16hZSW2sr/view?usp=sharing)
 
 - ⚡ Fun fact **Call me as Harshan**
 
